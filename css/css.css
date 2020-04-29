@@ -1,0 +1,38 @@
+header {
+	background-image: url(../Images/lac4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	min-height: 20rem;
+}
+
+body {
+	font-family: Roboto,'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+	color:cornflowerblue; 
+	text-align: center;
+}
+
+.card:hover {
+	border: 2px solid cornflowerblue;
+}
+
+.title {
+	font-family:'Aclonica', 'Arial Narrow', Arial, sans-serif;
+	font-size: 6vw;
+	color: #ff66b3;
+	font-weight: bold;
+	margin-top: 150px;
+}
+
+.corps {	
+	background-color: #ffe6e6;
+}
+
+@media screen and (max-width: 600px) {
+	#logo {
+		display: none;
+	}
+}
