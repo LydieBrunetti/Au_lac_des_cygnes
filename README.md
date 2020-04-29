@@ -1,7 +1,7 @@
 # Au_lac_des_cygnes
 Projet de mini site de e-commerce en PHP natif
 
-Ce projet est le fruit d'un challenge : constuire une mini boutique en ligne, dans un délai de trois jours, 
+Ce projet est le fruit d'un challenge : constuire une mini boutique en ligne, dans un délai de deux jours, 
 selon un cahier des charges fourni par notre formateur.
 L'application web permet de voir la liste des produits sur le site et d'avoir une interface d'administration protégée par mot de passe 
 pour administrer les produits (Ajouter, consulter, modifier, supprimer). 
